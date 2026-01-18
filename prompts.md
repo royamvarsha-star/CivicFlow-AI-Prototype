@@ -1,6 +1,6 @@
 ## System Prompt: Complaint Classifier
 **Goal:** Categorize user input as 'Query' or 'Complaint'.
-**Model Used:** IBM Granite / GPT-4
+**Model Used:** IBM Granite 
 **Prompt:**
 [Paste the System Prompt I gave you in the previous turn]
 
