@@ -1,4 +1,4 @@
-# CivicFlow-AI-Prototype
+
 # CivicFlow AI: Automated Grievance Redressal
 
 ![Project Logic Flowchart](flowchart.png)
@@ -9,7 +9,7 @@
 ---
 
 ## Project Overview
-[Start your description here...]
+
 AI for Natural Language Understanding and Classification
 Where AI is Used: At the initial point of input, when a citizen enters a complaint in natural language (text).
 How AI is Used (Allowed Components):
